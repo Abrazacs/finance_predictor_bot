@@ -20,7 +20,7 @@ stock_prediction_bot\
 │   ├── logger.py               
 │   └── trading_signals.py     
 └── bot\
-└── handlers.py            
+│   ├── handlers.py            
 
 Логи:\
 ├── logs.txt                     
