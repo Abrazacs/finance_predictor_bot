@@ -15,7 +15,7 @@ stock_prediction_bot\
 ├── services\
 │   ├── data_service.py         
 │   ├── prediction_service.py   
-│   └── visualization_service.py 
+│   └── visualization_service.py   
 ├── utils\
 │   ├── logger.py               
 │   └── trading_signals.py     
