@@ -2,7 +2,7 @@
 
 ### Структура проекта:
 
-stock_prediction_bot\
+finance_predictor_bot\
 ├── main.py                      
 ├── config.py                
 ├── requirements.txt             
